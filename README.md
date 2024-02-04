@@ -1,4 +1,4 @@
-# sql-project
+
 # Project: Music Store Insights
 
 ## Overview
